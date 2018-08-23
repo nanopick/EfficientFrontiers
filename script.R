@@ -8,7 +8,7 @@ library(quadprog)
 library(ggplot2)
 library(Matrix)
 
-setwd("G:\\HNRG\\RESEARCH\\_Personal\\Shestakova\\R")
+setwd("PUT YOUR DIRECTORY HERE")
 
 # Color Scheme
 RED  <- "#7D110C"
